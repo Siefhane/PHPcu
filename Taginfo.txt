@@ -1,0 +1,11 @@
+TO LIST THE TAGS 
+
+git tag
+------------------------------------------
+TO DELETE TAG
+ LOCALLY :git tag -d v1.7
+
+
+ REMOTELY : git push origin --delete v1.7
+
+---------------------------------------------
