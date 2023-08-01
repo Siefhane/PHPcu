@@ -1,0 +1,14 @@
+TO REMOVE IT LOCALLY 
+---------------------------------
+"git branch -d dev" "git branch -d test"
+
+or
+"git branch -D dev" "git branch -D test"
+-------------------------------
+TO REMOVE IT REMOTELLY :
+"git push origin --delete test"
+"git push origin --delete dev"
+
+
+
+
